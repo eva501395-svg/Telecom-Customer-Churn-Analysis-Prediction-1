@@ -1,12 +1,12 @@
-📁 data
+ data
 
-📁 Level_1_Basic
+ Level_1_Basic
 
-📁 Level_2_Intermediate
+ Level_2_Intermediate
 
-📁 Level_3_Advanced
+ Level_3_Advanced
 
-📄 README.md
+ README.md
 
-📄 requirements.txt
+ requirements.txt
                     
