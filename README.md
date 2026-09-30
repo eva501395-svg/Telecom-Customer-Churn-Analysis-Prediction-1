@@ -46,15 +46,6 @@ I am a passionate Data Scientist and Python Developer currently interning at **C
 - **Tech:** Python, Object-Oriented Programming (OOP), Scikit-Learn, Pytest.
 - 🔗 *[Link to Repository]*
 
----
-
-###  GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
----
 
 ###  Let's Connect!
 I’m always open to discussing data science, Python best practices, or potential collaborations. 
