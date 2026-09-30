@@ -50,19 +50,6 @@ End-to-end data science workflow on telecom customer data: cleaning, EDA, machin
 
 `Python` `pandas` `scikit-learn` `matplotlib` `seaborn` `TensorFlow/Keras`
 
-## 🚀 How to Run
 
-```bash
-git clone https://github.com/<your-username>/telecom-churn-analysis-codveda.git
-cd telecom-churn-analysis-codveda
-pip install -r requirements.txt
-```
-Then open the notebooks in Jupyter and run top to bottom.
-
----
-
-Made during my Data Science internship at **Codveda Technology**.
-
-#CodvedaJourney #CodvedaExperience #FutureWithCodveda
 ````
 
