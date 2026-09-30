@@ -1,15 +1,15 @@
 
 
-### 🧠 Data Science Intern @ Codveda | Python Developer | Building Production-Grade ML Pipelines
+###  Data Science Intern @ Codveda | Python Developer | Building Production-Grade ML Pipelines
 
 I am a passionate Data Scientist and Python Developer currently interning at **Codveda**. I specialize in transforming raw data into actionable business insights by building **comprehensive, modular, and production-grade Python scripts**. I am actively seeking expert-level mentorship and challenging projects to push the boundaries of my machine learning and software engineering skills.
 
 ---
 
-### 💼 Current Focus
-- 🌱 **Learning:** Advanced MLOps, scalable data pipelines, and expert-level Python design patterns.
-- 🔭 **Working on:** End-to-end Customer Churn Prediction models with business-logic-driven threshold optimization.
-- 🤝 **Seeking:** Collaborative open-source data science projects and mentorship from senior ML engineers.
+###  Current Focus
+-  **Learning:** Advanced MLOps, scalable data pipelines, and expert-level Python design patterns.
+-  **Working on:** End-to-end Customer Churn Prediction models with business-logic-driven threshold optimization.
+-  **Seeking:** Collaborative open-source data science projects and mentorship from senior ML engineers.
 
 ---
 
@@ -26,9 +26,9 @@ I am a passionate Data Scientist and Python Developer currently interning at **C
 
 ---
 
-### 🚀 Featured Projects
+###  Featured Projects
 
-#### 1. 📉 Telco Customer Churn Prediction & Decision Modeling
+#### 1.  Telco Customer Churn Prediction & Decision Modeling
 - **Description:** An end-to-end machine learning pipeline to predict telecom customer churn and determine the optimal intervention cutoff to maximize retention campaign ROI.
 - **Key Features:** 
   - Modular preprocessing pipeline (Scikit-learn `ColumnTransformer`).
@@ -37,7 +37,7 @@ I am a passionate Data Scientist and Python Developer currently interning at **C
 - **Tech:** Python, Pandas, Scikit-Learn, Matplotlib, NumPy.
 - 🔗 *[Link to Repository]*
 
-#### 2. 🌸 Modular Iris Dataset Classification Pipeline
+#### 2.  Modular Iris Dataset Classification Pipeline
 - **Description:** A highly structured, production-grade template for classification tasks using the classic Iris dataset. 
 - **Key Features:** 
   - Strict separation of data loading, preprocessing, training, and evaluation modules.
@@ -48,7 +48,7 @@ I am a passionate Data Scientist and Python Developer currently interning at **C
 
 ---
 
-### 📊 GitHub Stats
+###  GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical" alt="Top Languages" />
@@ -56,10 +56,9 @@ I am a passionate Data Scientist and Python Developer currently interning at **C
 
 ---
 
-### 📫 Let's Connect!
+###  Let's Connect!
 I’m always open to discussing data science, Python best practices, or potential collaborations. 
-- 📧 **Email:** [your.email@example.com]
-- 💼 **LinkedIn:** [linkedin.com/in/yourprofile]
-- 🐦 **Twitter/X:** [@yourhandle] *(Optional)*
+-  **Email:** [eva501395@gmail.com]
+-  **LinkedIn:** [https://lnkd.in/p/dJmTnB_J]
 
 > *"Code is like humor. When you have to explain it, it’s bad."* – Cory House
